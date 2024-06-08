@@ -2,6 +2,13 @@
 
 This repository contains an implementation of gradient descent for linear regression, along with a comparison to scikit-learn's linear regression implementation.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Gradient-Descent-and-Cost-Function/assets/113255836/83bfd816-abb5-48ea-b18b-4e0ee16e1b67
+
+
+
 ## Overview
 
 The main goal of this project is to demonstrate how to implement gradient descent for linear regression and compare the results with scikit-learn's linear regression model. The gradient descent algorithm is used to find the best-fit line for a set of data points by iteratively adjusting the slope and intercept to minimize the cost function.
